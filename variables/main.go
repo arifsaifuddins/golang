@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	// main types
+	// - nil (null/empty)
 	// - string
 	// - bool
 	// - int 8/16/32/64 (length)

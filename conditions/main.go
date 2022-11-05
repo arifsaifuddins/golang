@@ -17,8 +17,8 @@ func main() {
 	color := "blue"
 	if color == "blue" {
 		fmt.Println(true)
-	} else if color == "red" {
-		fmt.Println("not red")
+	} else if color == "red" || color == "green" {
+		fmt.Println("not red or green")
 	} else {
 		fmt.Println(false)
 	}
