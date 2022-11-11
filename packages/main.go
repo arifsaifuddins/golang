@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/ariefsaifuddien/go_basic/packages/arief" // must init go mod init
+	"github.com/ariefsaifuddien/golang/packages/arief" // must init go mod init
 )
 
 func main() {
